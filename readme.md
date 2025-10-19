@@ -27,7 +27,7 @@ A list of tools, papers and datasets on synthetic data generations and use!
 - [Tools](#tools)
 
 
-## Featured (new releases)
+## Featured
 
 - [DeepFabric](https://github.com/lukehinds/deepfabric/) - Create large-scale synthetic training data for model distillation and fine-tuning of LLMs.
 
