@@ -1,5 +1,10 @@
 <div align="center">
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/synth-dark.png" style="width: 30%;">
+</a>
+
+
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
@@ -10,11 +15,6 @@
 
 A list of tools, papers and datasets on synthetic data generations and use!
 
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/synth-dark.png" style="width: 30%;">
-</a>
 
 
 </div>
