@@ -13,14 +13,8 @@ A list of tools, papers and datasets on synthetic data generations and use!
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="light-synth.png" />
+  <img src="./assets/synth-dark.png">
 </a>
-
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
 
 </div>
 
