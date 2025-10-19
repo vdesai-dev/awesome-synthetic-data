@@ -13,8 +13,9 @@ A list of tools, papers and datasets on synthetic data generations and use!
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/synth-dark.png">
+  <img src="./assets/synth-dark.png" style="width: 60%;">
 </a>
+
 
 </div>
 
